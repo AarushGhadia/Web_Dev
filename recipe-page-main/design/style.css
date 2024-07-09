@@ -1,0 +1,33 @@
+body {
+    background-color: khaki;
+}
+div {
+    width: 100%; 
+    height: 100%; 
+    background-color: white; 
+    border: 1px solid black; 
+    border-radius: 10px;
+    padding-left: 40px;
+}
+h2 {
+    color: brown;
+    font-family: 'Young Serif';
+}
+.start {
+    color: black;
+    border: none;
+    padding: 0px;
+}
+.end {
+    border: none;
+    padding: 0px;
+    font-weight: normal;
+    color: black;
+}
+p {
+    font-family: 'Outfit';
+    font-size: 16px;
+}
+li {
+    font-family: 'Outfit',sans-serif;
+}
