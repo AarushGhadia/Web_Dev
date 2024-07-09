@@ -1,2 +1,3 @@
 # Web_Dev
-Web development practice using Frontend Mentor
+Web Development practice using Frontend Mentor
+I made this project to practice html and css.
